@@ -4,13 +4,7 @@
 
 | CODE | OUTPUT |
 |   ---   | --- |
-| NewCircle = Circle(8) 
-
-print(NewCircle.area()) 
-
-print(NewCircle.perimeter()) | 200.96 
-
-50.24 |
+| NewCircle = Circle(8) print(NewCircle.area()) print(NewCircle.perimeter()) | 200.96 50.24 |
 
 
 
